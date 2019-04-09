@@ -1,6 +1,6 @@
 {
   "name": "fabric-to-image-data",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Extend toImageData function for fabric.js",
   "main": "dist/fabric-to-image-data.min.js",
   "engines": {
