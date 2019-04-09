@@ -1,0 +1,9 @@
+test/
+lib/
+build.js
+package-lock.json
+.gitignore
+.eslintrc.json
+.eslintignore
+.DS_Store
+.npmrc
