@@ -51,7 +51,6 @@
       var onSuccess = function() {
         setTimeout(function() {
           // eslint-disable-next-line no-console
-          console.log(pipedContents);
           resolve(pipedContents);
         }, 0);
       };
