@@ -5,7 +5,6 @@
   "globals": {
     "require": true,
     "fabric": true,
-    "WebFont": true,
     "Promise": true,
     "Error": true,
     "setTimeout": true,

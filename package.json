@@ -1,6 +1,6 @@
 {
   "name": "fabric-to-image-data",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Extend toImageData function for fabric.js",
   "main": "dist/fabric-to-image-data.min.js",
   "engines": {
@@ -25,10 +25,8 @@
   ],
   "author": "josheplibra",
   "license": "MIT",
-  "dependencies": {
-  },
-  "optionalDependencies": {
-  },
+  "dependencies": {},
+  "optionalDependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
     "contextify": "^1.0.0",
